@@ -1,0 +1,84 @@
+{
+  "buttons": [
+    {
+      "id": 0,
+      "label": "Mute Mic",
+      "color": "DARKGRAY",
+      "isToggle": true,
+      "action_type": "hotkey",
+      "action": "f13"
+    },
+    {
+      "id": 1,
+      "label": "Spotify",
+      "color": "DARKGRAY",
+      "isToggle": false,
+      "action_type": "command",
+      "action": "C:\\Users\\jmaul\\AppData\\Roaming\\Spotify\\Spotify.exe"
+    },
+    {
+      "id": 2,
+      "label": "Discord",
+      "color": "DARKGRAY",
+      "isToggle": false,
+      "action_type": "command",
+      "action": "C:\\Users\\jmaul\\AppData\\Local\\Discord\\Update.exe --processStart Discord.exe"
+    },
+    {
+        "id": 3,
+        "label": "VS Code",
+        "color": "DARKGRAY",
+        "isToggle": false,
+        "action_type": "command",
+        "action": "C:\\Users\\jmaul\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+        "id": 4,
+        "label": "Termius",
+        "color": "DARKGRAY",
+        "isToggle": false,
+        "action_type": "command",
+        "action": "C:\\Users\\jmaul\\AppData\\Local\\Programs\\Termius\\Termius.exe"
+    },
+    {
+        "id": 5,
+        "label": "Steam",
+        "color": "DARKGRAY",
+        "isToggle": false,
+        "action_type": "command",
+        "action": "C:\\Program Files (x86)\\Steam\\steam.exe"
+    },
+    {
+        "id": 6,
+        "label": "Browser",
+        "color": "DARKGRAY",
+        "isToggle": false,
+        "action_type": "command",
+        "action": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+    },
+    {
+        "id": 8,
+        "label": "Play/Pause",
+        "color": "LIGHTBLUE",
+        "isToggle": false,
+        "action_type": "hotkey",
+        "action": "play/pause media"
+    },
+    {
+        "id": 10,
+        "label": "Lock",
+        "color": "ORANGE",
+        "isToggle": false,
+        "action_type": "command",
+        "action": "rundll32.exe user32.dll,LockWorkStation"
+    },
+    {
+        "id": 11,
+        "label": "Shutdown",
+        "color": "RED",
+        "isToggle": false,
+        "action_type": "hold_command",
+        "action": "shutdown /s /t 0"
+    }
+  ]
+}
