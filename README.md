@@ -14,7 +14,7 @@ A Stream Deck alternative for the ESP32 SoC MCU.
 
 You can keep the ESP32 plugged in, it will not damage anything while you do the next steps.
 
-You're complete! Continue onto [**Setting up your Computer and Prepping your jbDeck**](https://github.com/Jbablestime/jbDeck/edit/main/README.md#setting-up-your-computer-and-prepping-your-jbdeck).
+You're complete! Continue onto [**Setting up your Computer and Prepping your jbDeck**](https://github.com/Jbablestime/jbDeck?tab=readme-ov-file#setting-up-your-computer-and-prepping-your-jbdeck).
 
 
 ## Setting up your Computer and Prepping your jbDeck
